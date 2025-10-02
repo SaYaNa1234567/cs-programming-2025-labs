@@ -1,6 +1,0 @@
-x = input()
-num = x.split(',')
-a = int(num[0].strip())
-b = int(num[1].strip())
-c = int(num[2].strip())
-print((a+c)//b)
